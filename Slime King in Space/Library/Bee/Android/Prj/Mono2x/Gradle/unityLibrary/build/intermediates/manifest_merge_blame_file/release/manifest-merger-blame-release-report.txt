@@ -1,0 +1,118 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="22"
+7-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+8        android:targetSdkVersion="32" />
+8-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+9
+10    <uses-feature android:glEsVersion="0x00030000" />
+10-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-52
+10-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:17-49
+11    <uses-feature
+11-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-91
+12        android:name="android.hardware.vulkan.version"
+12-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:17-63
+13        android:required="false" />
+13-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:64-88
+14    <uses-feature
+14-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-88
+15        android:name="android.hardware.touchscreen"
+15-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:17-60
+16        android:required="false" />
+16-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:61-85
+17    <uses-feature
+17-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-99
+18        android:name="android.hardware.touchscreen.multitouch"
+18-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-71
+19        android:required="false" />
+19-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:72-96
+20    <uses-feature
+20-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-108
+21        android:name="android.hardware.touchscreen.multitouch.distinct"
+21-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-80
+22        android:required="false" />
+22-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:81-105
+23
+24    <application android:extractNativeLibs="true" >
+24-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-22:17
+24-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:16-48
+25        <meta-data
+25-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:5-69
+26            android:name="unity.splash-mode"
+26-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:16-48
+27            android:value="0" />
+27-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:49-66
+28        <meta-data
+28-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:5-74
+29            android:name="unity.splash-enable"
+29-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:16-50
+30            android:value="True" />
+30-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:51-71
+31        <meta-data
+31-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:5-78
+32            android:name="unity.launch-fullscreen"
+32-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:16-54
+33            android:value="True" />
+33-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:55-75
+34        <meta-data
+34-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:5-84
+35            android:name="unity.allow-resizable-window"
+35-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-59
+36            android:value="False" />
+36-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:60-81
+37        <meta-data
+37-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-81
+38            android:name="notch.config"
+38-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-43
+39            android:value="portrait|landscape" />
+39-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:44-78
+40
+41        <activity
+41-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-21:16
+42            android:name="com.unity3d.player.UnityPlayerActivity"
+42-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:15-68
+43            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+43-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:180-361
+44            android:exported="true"
+44-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:433-456
+45            android:hardwareAccelerated="false"
+45-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:397-432
+46            android:launchMode="singleTask"
+46-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:148-179
+47            android:resizeableActivity="false"
+47-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:362-396
+48            android:screenOrientation="portrait"
+48-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:111-147
+49            android:theme="@style/UnityThemeSelector" >
+49-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:69-110
+50            <intent-filter>
+50-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:7-18:23
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:9-69
+51-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:19-66
+52
+53                <action android:name="android.intent.action.MAIN" />
+53-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:9-61
+53-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:17-58
+54            </intent-filter>
+55
+56            <meta-data
+56-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:7-82
+57                android:name="unityplayer.UnityActivity"
+57-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:18-58
+58                android:value="true" />
+58-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:59-79
+59            <meta-data
+59-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:7-70
+60                android:name="notch_support"
+60-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:18-46
+61                android:value="true" />
+61-->E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:47-67
+62        </activity>
+63    </application>
+64
+65</manifest>

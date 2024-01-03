@@ -1,0 +1,19 @@
+<libraries>
+  <library
+      name="E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
+      jars="E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\a52989c60d4970b51fd8e27fca0b0e3e\transformed\out\jars\classes.jar;E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\a52989c60d4970b51fd8e27fca0b0e3e\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\a52989c60d4970b51fd8e27fca0b0e3e\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:E:\Users\Skodaxo\Cube Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+</libraries>

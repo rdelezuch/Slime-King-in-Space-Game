@@ -1,0 +1,4 @@
+#Fri Dec 15 00:55:59 CET 2023
+base.0=E\:\\Users\\Skodaxo\\Cube Runner\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
